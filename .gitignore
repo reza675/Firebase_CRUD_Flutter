@@ -45,6 +45,6 @@ app.*.map.json
 /android/app/release
 
 # Firebase & konfigurasi sensitif
-/lib/firebase_options.dart
-/android/google-services.json
+lib/firebase_options.dart
+android/google-services.json
 firebase.json
